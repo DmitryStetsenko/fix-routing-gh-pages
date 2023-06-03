@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}li{list-style:none}.container{display:flex;flex-direction:column;height:100vh;margin:0 auto;max-width:500px}.menu{align-items:center;border-bottom:2px solid silver;display:flex;justify-content:center;margin-bottom:20px;padding:20px 0}.menu-item__link{border:1px solid silver;display:block;padding:10px 20px}.menu-item__link.active{background:grey;color:#fff}main{margin-bottom:auto;margin-top:auto}footer{padding:20px 0}
+/*# sourceMappingURL=main.488375f2.css.map*/
