@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fix-routing-gh-pages/static/css/main.488375f2.css",
-    "main.js": "/fix-routing-gh-pages/static/js/main.e040dead.js",
+    "main.js": "/fix-routing-gh-pages/static/js/main.ca7505d8.js",
     "index.html": "/fix-routing-gh-pages/index.html",
     "main.488375f2.css.map": "/fix-routing-gh-pages/static/css/main.488375f2.css.map",
-    "main.e040dead.js.map": "/fix-routing-gh-pages/static/js/main.e040dead.js.map"
+    "main.ca7505d8.js.map": "/fix-routing-gh-pages/static/js/main.ca7505d8.js.map"
   },
   "entrypoints": [
     "static/css/main.488375f2.css",
-    "static/js/main.e040dead.js"
+    "static/js/main.ca7505d8.js"
   ]
 }
